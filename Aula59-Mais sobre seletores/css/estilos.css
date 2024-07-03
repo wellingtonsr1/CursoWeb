@@ -1,0 +1,36 @@
+
+/* Seletor universal 
+* {
+    border: 1px solid red;
+}
+
+/* Seletor de texto 
+h1 {
+    color: green;
+}
+*/
+
+/* Seletor de classe
+.verde {
+    color: green;
+}
+
+p.verde {
+    color: green;
+}
+
+/* Seletor de ID
+#cabecalho {
+    border: 1px solid blue;
+}
+
+li>a {
+    color: red;
+    text-decoration: none;
+}
+
+p>a {
+    color: green;
+}
+
+*/
